@@ -1,0 +1,13 @@
+{
+    "AWSDockerrunVersion": "1",
+    "Image": {
+        "Name": "youssefmrbt/vehicle-price-prediction-api",
+        "Update": "true"
+    },
+
+    "Ports": [
+        {
+            "ContainerPort": "5000"
+        }
+    ],
+}
