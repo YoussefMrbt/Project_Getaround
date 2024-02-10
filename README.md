@@ -19,6 +19,11 @@ requirements.txt: Lists all the Python dependencies required for the project.
 
 Dockerfile: Provides the setup for containerizing the application, ensuring it can run in any environment with Docker.
 
+## Deployment on Heroku
+
+On this repository:
+https://github.com/YoussefMrbt/Getaround_api
+
 ## Contributing
 
 Contributions to improve the project are welcome. Please follow the standard fork-and-pull request workflow. If you have suggestions or encounter issues, please file them via GitHub issues.
